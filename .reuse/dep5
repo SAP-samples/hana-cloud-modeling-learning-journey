@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: hana-cloud-modeling-learning-journey
-Upstream-Contact: ospo@sap.com
+Upstream-Contact: alain.viguie@sap.com
 Source: <https://github.com/SAP-samples/hana-cloud-modeling-learning-journey>
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  SAP or third-party products or services developed outside of this project
