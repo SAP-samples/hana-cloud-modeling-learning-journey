@@ -12,7 +12,7 @@ You can perform the exercises using an SAP BTP landscape provisioned by SAP Educ
 
 The course files in this repository are required to perform most of the exercises of the learning journey.
 After enrolling an "SAP HANA Cloud - Modeling" (HC300) system, you can download the exercise handbook. On the [SAP Learning Hub](https://learninghub.sap.com) portal, go to the page *Practice > My Systems* and on the tile representing your enrolled system, click the *Exercises* link.  
-Exercise 2 contains all the instructions to use the course files from the archive HC300_06_Course_Files.zip located in this repository.
+Exercise 2 contains all the instructions to use the course files from the archive. The archive to use, located in this repository, is HC300_06_Course_Files.zip or HC300_2410_Course_Files.zip, depending on the system and exercises handbook that you will get from the SAP Learning System Access portal. The _2410 version is the most recent and should be available around Nov 18, 2024 or earlier.
 
 Before working on any exercise, you should have the necessary knowledge on the corresponding topic. For that, please follow the [learning journey](https://learning.sap.com/learning-journey/develop-data-models-with-sap-hana-cloud).
 
