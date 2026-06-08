@@ -16,7 +16,7 @@ Exercise 2 contains all the instructions to use the course files from the archiv
 
 Before working on any exercise, you should have the necessary knowledge on the corresponding topic. For that, please follow the [learning journey](https://learning.sap.com/learning-journey/develop-data-models-with-sap-hana-cloud).
 
-Some dependencies can exist between exercises. They are generally mentioned in the *Prerequisites* section at the beginning of the exercises.
+Some dependencies can exist between exercises.  They are generally mentioned in the *Prerequisites* section at the beginning of the exercises.
 
 ## Known Issues
 
